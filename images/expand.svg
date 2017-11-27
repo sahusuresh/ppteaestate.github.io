@@ -1,0 +1,8 @@
+<svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .cls-1{fill:#b7b7b7; fill-rule:evenodd}
+    </style>
+  </defs>
+  <path id="expand.svg" d="M259.69 266.247V264H251v8.686h2.256v-4.8l.037-.021 6.506 6.507 1.594-1.593-6.541-6.539h4.837zm8.538 8.17l6.528-6.527v4.8H277V264h-8.689v2.252h4.83l-6.54 6.538zm-8.472 5.178l-6.507 6.506v-4.792H251V290h8.691v-2.255h-4.809l6.51-6.508zm14.991 1.713v4.8l-.045.024-6.5-6.5-1.585 1.581 6.511 6.509-.018.032h-4.8V290H277v-8.688h-2.253z" class="cls-1" transform="translate(-251 -264)"/>
+</svg>
